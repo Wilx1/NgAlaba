@@ -1,6 +1,3 @@
-Thanks for downloading this theme!
+Ngalaba.com.ng Home page as remade by Odjesawha, God'swill.
 
-Theme Name: Folio
-Theme URL: https://bootstrapmade.com/folio-bootstrap-portfolio-template/
-Author: BootstrapMade.com
-Author URL: https://bootstrapmade.com
+November, 2019
